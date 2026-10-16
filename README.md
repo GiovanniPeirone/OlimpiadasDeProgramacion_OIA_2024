@@ -1,2 +1,2 @@
-# OlimiadasDeProgramacion(i lose)
-OIAJ: El juez de la Olimpíada Informática Argentina El OIA Juez (OIAJ) es un sistema de evaluación automática en línea que permite el entrenamiento de los alumnos en programación, mediante el envío de soluciones en C++. Vea las preguntas frecuentes si es su primera vez en el sitio.
+# Informatics Olympiad OIA 2024
+I participated in the 2024 Argentine Informatics Olympiad (OIA), where I challenged my programming skills by solving algorithmic problems. Although I did not win, the experience helped me strengthen my logical thinking, improve my problem-solving abilities, and gain valuable experience in competitive programming.
